@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ridoseptiawan
-- 👀 I’m interested in coding, gaming, reading, and gym
-- 🌱 I’m currently learning reactjs
-- 📫 How to reach me ig: @ridosptwnn
-- ⚡ Fun fact: ...
+👋 Hi there! I'm Rido septiawan, a passionate developer with a love for coding and problem-solving.
 
-<!---
-riddsep/riddsep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently learning: Javascript & React JS .
+
+💼 Skills:
+Languages: HTML, CSS, Javascript
+Frameworks: Tailwind, shadcn ui.  
+Tools: Git, Github, VsCode, Figma. 
+✨ I enjoy contributing to open source projects and collaborating with fellow developers.
+
+🌍 Always eager to learn and explore new technologies. Let's connect!
+
+📫 Reach me at: ig:@ridosptwnn
+
+
