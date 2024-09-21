@@ -1,22 +1,18 @@
-👋 Hi there! I'm Rido Septiawan, a passionate developer with a love for coding and problem-solving.
+👋 Hi there! I'm Rido Septiawan, a passionate developer with a love for coding and problem-solving.  
 
-🌱 Currently learning: JavaScript & React JS.
+🌱 Currently learning: JavaScript & React JS.  
 
-💼 Skills:
-**Languages**: HTML, CSS, JavaScript
-
----
-
+💼 Skills:  
+**Languages**: HTML, CSS, JavaScript  
+  
 **Frameworks**: Tailwind, shadcn UI  
 
----
+**Tools**: Git, GitHub, VSCode, Figma  
 
-**Tools**: Git, GitHub, VSCode, Figma
+✨ I enjoy contributing to open source projects and collaborating with fellow developers.  
 
-✨ I enjoy contributing to open source projects and collaborating with fellow developers.
+🌍 Always eager to learn and explore new technologies. Let's connect!  
 
-🌍 Always eager to learn and explore new technologies. Let's connect!
-
-📫 Reach me at: ig:@ridosptwnn
+📫 Reach me at: ig:@ridosptwnn  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
