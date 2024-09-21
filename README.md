@@ -9,11 +9,9 @@
 
 **Tools**: Git, GitHub, VSCode, Figma  
 
-✨ I enjoy contributing to open source projects and collaborating with fellow developers.  
-
 🌍 Always eager to learn and explore new technologies. Let's connect!  
 
-📫 Reach me at: ig:@ridosptwnn  
+📫 Feel free to DM me on Instagram: @ridosptwnn  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
