@@ -11,5 +11,6 @@ Tools: Git, Github, VsCode, Figma.
 🌍 Always eager to learn and explore new technologies. Let's connect!
 
 📫 Reach me at: ig:@ridosptwnn
-![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
+
+<img src="{[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)}" />
 
