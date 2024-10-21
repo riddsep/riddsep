@@ -5,7 +5,7 @@
 💼 Skills:  
 **Languages**: HTML, CSS, JavaScript  
   
-**Frameworks**: Tailwind, shadcn UI  
+**Frameworks**: Tailwind, Sass, React  
 
 **Tools**: Git, GitHub, VSCode, Figma  
 
