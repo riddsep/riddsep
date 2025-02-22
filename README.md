@@ -1,13 +1,8 @@
 👋 Hi there! I'm Rido Septiawan, a passionate developer with a love for coding and problem-solving.  
 
-🌱 Currently learning: JavaScript & React JS.  
+🌱 Currently learning: Next.js & TypeScript  
 
-💼 Skills:  
-**Languages**: HTML, CSS, JavaScript  
-  
-**Frameworks**: Tailwind, Sass, React  
-
-**Tools**: Git, GitHub, VSCode, Figma  
+💼 Skills: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Sass, Git, GitHub, VSCode, Figma
 
 🌍 Always eager to learn and explore new technologies. Let's connect!  
 
